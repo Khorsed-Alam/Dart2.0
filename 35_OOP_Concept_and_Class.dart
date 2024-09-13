@@ -1,0 +1,7 @@
+class Myclass{
+
+}
+void main()
+{
+  
+}
