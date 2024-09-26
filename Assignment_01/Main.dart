@@ -19,4 +19,7 @@ void main(){
   print("Book 1: ${book3.getTitle()} by ${book3.getAuthor()}");
   print("Published in ${book3.getPublicationYear()}, Page Read : ${book3.getPagesRead()}");
   print("Age of the Book : ${book3.getBookAge()}Years\n\n");
+
+
+  print("Total Book:  ${Book.totalBook}");
 }
